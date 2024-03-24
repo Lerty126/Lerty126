@@ -10,4 +10,4 @@ Le but de ce projet était de concevoir et d'améliorer un petit jeu, sous forme
 
 Elle a été réalisé par groupe de 4, nous nous repartissions le travail en binôme (sachant que nous devions choisir deux fonctionnalités, chacun des binômes en prenait une, et réalisait sa conception, son implémentation et sa vérification).
 
-<img source="classe.png">
+<img src="classe.png" alt="diagramme de classe" width="400"/>
