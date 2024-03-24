@@ -13,6 +13,9 @@
 <a href="https://cloud.google.com/?hl=en" target="_blank"> <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="GCP" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://www.svgrepo.com/show/521688/github.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.svgrepo.com/show/516636/git.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.openssh.com/manual.html" target="_blank"> <img src="https://www.svgrepo.com/show/501028/terminal.svg" alt="ssh" width="40" height="40"/> </a>
+<a href="https://systemd.io/" target="_blank"> <img src="https://www.svgrepo.com/show/374116/systemd.svg" alt="systemd" width="40" height="40"/> </a>
+
 
 ### Scolaires :
 - Développement orienté objet
