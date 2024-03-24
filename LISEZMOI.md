@@ -4,7 +4,7 @@
 ### Qui suis-je ?
 Bonjour !</br>
 
-Je suis Noah "Lerty" MANDLER, actuellement étudiant en **3ème année de BUT Informatique** à l'IUT Nancy-Charlemagne, parcours **DACS (Développement d'Applications Communicantes et Sécurisées)**. J'ai intégré ce parcours après de deux années de Licence en Sciences de la Vie à la Faculté des Sciences et Technologies de Vandœuvre-lès-Nancy.
+Je suis Noah "Lerty" MANDLER, actuellement étudiant en **3ème année de BUT Informatique** à l'IUT Nancy-Charlemagne, parcours **DACS (Déploiement d'Applications Communicantes et Sécurisées)**. J'ai intégré ce parcours après de deux années de Licence en Sciences de la Vie à la Faculté des Sciences et Technologies de Vandœuvre-lès-Nancy.
 
 J'ai choisi de me **réorienter en Informatique** car c'est un domaine qui m'a toujours intéressé, même si je n'estime pas que ces deux années passées en Biologie soient perdues.
 
