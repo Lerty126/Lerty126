@@ -36,6 +36,6 @@
 
 ### Et ensuite ?
 
-[Qui suis-je ?](LISEZMOI.md)
-[Mes projets](PROJETS.md)
+[Qui suis-je ?](LISEZMOI.md)</br>
+[Mes projets](PROJETS.md)</br>
 [Mes passions](PASSIONS.md)
