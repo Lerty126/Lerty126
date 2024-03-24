@@ -32,3 +32,8 @@
   - Script Programming (Bash/Ruby)
   - .deb Packages
   - Management (Rights/Users/Storage)
+
+### What's next?
+[Who am I ?](README.md)</br>
+[My projects](PROJECTS.md)</br>
+[My passions](PASSIONS_EN.md)
