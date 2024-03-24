@@ -24,9 +24,9 @@ Of course, it's not just that; we study **virtualization**, **cloud computing**,
 Initially somewhat hesitant, I have thoroughly enjoyed this program, and I absolutely do not regret this choice. Despite a very basic fourth semester, the depth that the third year has brought has greatly enhanced my appreciation for this education.
 
 ### What's next?
-[My skills](COMPETENCES.md)</br>
-[My projects](PROJETS.md)</br>
-[My passions](PASSIONS.md)
+[My skills](SKILLS.md)</br>
+[My projects](PROJECTS.md)</br>
+[My passions](PASSIONS_EN.md)
 
 ### Contact
 
