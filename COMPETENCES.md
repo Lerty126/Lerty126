@@ -33,3 +33,9 @@
   - Programmation de scripts (Bash/Ruby)
   - Packages .deb
   - Gestion (Droit/Utilisateurs/Stockage)
+
+### Et ensuite ?
+
+[Qui suis-je ?](LISEZMOI.md)
+[Mes projets](PROJETS.md)
+[Mes passions](PASSIONS.md)
