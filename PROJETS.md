@@ -31,6 +31,18 @@ La gestion des mots de passe, de la base de données (PDO), et l'implémentation
 ### Création d'une application d'introspection Java
 Projet réalisé à 4, création d'une application qui utilise le mécanisme d'introspection des classes de Java afin de récréer un programme semblable à celui inclus dans Eclipse pour la réalisation de diagramme de classe.
 
+### Stage
+En tant que stagiaire, j'ai été chargé de plusieurs tâches pour améliorer l'infrastructure informatique de l'entreprise. J'ai commencé par installer GLPI/OCS Inventory, un outil de gestion des tickets et de l'inventaire des équipements informatiques. J'ai également configuré OCS pour surveiller les équipements du réseau et détecter les éventuelles anomalies. Cette installation m'a permis de mieux comprendre l'organisation du parc informatique et de faciliter la résolution des problèmes rencontrés par les utilisateurs.
+
+Ensuite, j'ai dû utiliser Zabbix pour surveiller l'état du réseau en temps réel, en créant des alertes pour les problèmes les plus fréquents et en automatisant certains processus pour améliorer la réactivité de l'équipe. Grâce à cette surveillance proactive, on peut détecter certains problèmes avant leur impact, évitant ainsi des temps d'arrêt et des pertes de données.
+
+En parallèle, j'ai également été chargé de nettoyer l'Active Directory, la solution de Windows permettant d'administrer le réseau. J'ai identifié et supprimé les anciens comptes d'utilisateurs inactifs, les machines et les permissions obsolètes, ce qui a permis d'améliorer la sécurité et la stabilité du réseau. Cette expérience m'a également permis d'acquérir une connaissance approfondie de l'Active Directory et de ses fonctionnalités.
+
+J'ai eu la possibilité de me familiariser avec Proxmox en utilisant un ancien ESXi. Cette expérience m'a permis de découvrir une nouvelle plateforme de virtualisation et de mieux comprendre les avantages et les limites des différentes solutions disponibles sur le marché.
+
+Enfin, j'ai participé à la mise en place de nouveaux serveurs pour remplacer l'ancienne installation, qui présentait des signes de défaillance. Avec l'aide de Monsieur HENZLER, j'ai configuré les nouveaux serveurs et migré les données critiques, en veillant à minimiser les perturbations pour les utilisateurs. Cette migration réussie a permis d'améliorer la performance et la capacité de l'infrastructure, tout en garantissant la continuité des activités. Dans l'ensemble, cette mission m'a permis d'acquérir des compétences techniques avancées, mais également de développer ma capacité à travailler en équipe et à résoudre des problèmes complexes dans un environnement professionnel exigeant.
+
+
 # 3ème année
 ### Administration d'un serveur Web
 Projet réalisé à 3, le but était de mettre en place plusieurs services (Keycloak, Nextcloud, Lstu, Oauth2 et OpenLDAP), le tout sur un serveur Nginx.
