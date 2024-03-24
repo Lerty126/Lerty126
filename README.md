@@ -3,7 +3,7 @@
 ### Who am I?
 Hello! </br>
 
-I'm Noah "Lerty" MANDLER, currently a student in **3rd year of a Bachelor's Degree in Computer Science** at IUT Nancy-Charlemagne, specializing in **DACS (Development of Communicating and Secure Applications)**. I joined this program after two years of studying Life Sciences at the Faculty of Sciences and Technologies in Vandœuvre-lès-Nancy.
+I'm Noah "Lerty" MANDLER, currently a student in **3rd year of a Bachelor's Degree in Computer Science** at IUT Nancy-Charlemagne, specializing in **DACS (Deployment of Communicating and Secure Applications)**. I joined this program after two years of studying Life Sciences at the Faculté des Sciences et Technologies in Vandœuvre-lès-Nancy.
 
 I chose to **switch to Computer Science** because it has always interested me, even though I don't consider these two years in Biology wasted.
 
@@ -19,7 +19,7 @@ Now that I am here, **I intend to make the most of it**, especially with the ret
 ### My education
 As mentioned earlier, I am currently specializing in **system and network administration**. The aim of this program is to learn about **system architecture**, particularly **Debian** and its derivatives, as well as the functioning of **networks** and their **protocols**.
 
-Of course, it's not just that; we study **virtualization**, **cloud computing**, script development (Ruby/Bash), all while refining our soft skills.
+Of course, it's not just that; we study **virtualization**, **cloud computing**, **script development** (Ruby/Bash), all while refining our soft skills.
 
 Initially somewhat hesitant, I have thoroughly enjoyed this program, and I absolutely do not regret this choice. Despite a very basic fourth semester, the depth that the third year has brought has greatly enhanced my appreciation for this education.
 
