@@ -30,6 +30,7 @@ Et pour ce qui est des artistes :
 - Nine Inch Nails
 - Archive
 - ... et encore d'autres !
+<img src="musique.png" alt="medley albums"/>
 
 ### Et ensuite ?
 
