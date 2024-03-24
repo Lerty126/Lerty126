@@ -50,3 +50,9 @@ Et plusieurs solutions d'analyse de fichiers journaux :
 - Filebeat
 
 Le but est d'envoyer toutes les erreurs dans les journaux à un modèle de langage afin de traiter l'erreur et de nous rendre la solution, grâce à un programme Python.
+
+### Et ensuite ?
+
+[Qui suis-je ?](LISEZMOI.md)</br>
+[Mes compétences](COMPETENCES.md)</br>
+[Mes passions](PASSIONS.md)
