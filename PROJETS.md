@@ -1,3 +1,4 @@
+[EN](PROJECTS.md)
 # 1ère année
 ### Implémentation d'un besoin client
 Le but de ce projet était de concevoir un petit jeu inspiré de Timeline. Il devait être constitué d'une frise chronologique avec des événements à placer dans le bon ordre.
